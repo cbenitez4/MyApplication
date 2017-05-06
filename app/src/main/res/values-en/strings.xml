@@ -8,4 +8,9 @@
     <string name="titulo">Calculator</string>
     <string name="error_numero_dos">Type number Two</string>
     <string name="error_numero_uno">Type number One</string>
+    <string name="multiplicacion">Multiplication</string>
+    <string name="suma">Add</string>
+    <string name="resta">Subtract</string>
+    <string name="division">Division</string>
+    <string name="error_numero_dos_division">Type number two can´t zero</string>
 </resources>
